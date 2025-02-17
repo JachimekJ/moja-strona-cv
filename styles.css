@@ -1,15 +1,36 @@
-
-#image {
-  width: 100%;
-  height: auto;
-}
-
-#photo {
-  width: 500px;
-  height: auto;
-}
+#header {
+  display: flex;
+  justify-content: center;
+  background-color: #dfdfe2;
+  font-family: Hack-ZeroSlash Tahoma;
+  text-align: center;
 
 body {
   background-color: #d0d0d5;
   color: #5a01a7;
+}
+
+#image {
+  width: 500px;
+  height: auto;
+}
+
+h1 {
+  font-size: 30px;
+}
+p {
+  font-size: 20px;
+}
+
+#photo {
+  background-color: #ffffff;
+  padding-top: 20px;
+  width: 80%;
+  height: auto;
+  margin: auto;
+    
+}
+
+.dupa {
+ text-align: center;
 }
