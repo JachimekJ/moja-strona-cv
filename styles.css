@@ -36,3 +36,7 @@ p {
 .photo {
  text-align: center;
 }
+
+.me {
+  color: red;
+}
