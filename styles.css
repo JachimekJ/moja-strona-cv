@@ -1,13 +1,13 @@
 #header {
   display: flex;
   justify-content: center;
-  background-color: #dfdfe2;
+  background-color: #1b1b32;
   text-align: center;
   border-radius: 10px;
+  color: #f1be32;
 }
 body {
-  background-color: #d0d0d5;
-  color: #5a01a7;
+  background-color: #0a0a23;
   font-family: "Hack-ZeroSlash", Tahoma;
 }
 
@@ -26,6 +26,7 @@ p {
 
 h2 {
   font-size: 25px;
+  color: #f1be32;
 }
 #photo {
   background-color: #ffffff;
@@ -42,6 +43,4 @@ h2 {
  text-align: center;
 }
 
-.me {
-  color: red;
-}
+
