@@ -16,7 +16,10 @@
 #kropki {
   life-style-position: inside;
 }
-  
+  .navigation {
+    
+  life-style-position: inside;
+  }
 }
 body {
   background-color: #0a0a23;
