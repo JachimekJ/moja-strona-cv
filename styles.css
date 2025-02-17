@@ -17,11 +17,15 @@ body {
 
 h1 {
   font-size: 30px;
+  text-transform: uppercase;
 }
 p {
   font-size: 20px;
 }
 
+h2 {
+  font-size: 25px;
+}
 #photo {
   background-color: #ffffff;
   padding-top: 20px;
