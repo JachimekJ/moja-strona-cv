@@ -4,14 +4,14 @@
   background-color: #dfdfe2;
   font-family: Hack-ZeroSlash Tahoma;
   text-align: center;
-
+}
 body {
   background-color: #d0d0d5;
   color: #5a01a7;
 }
 
 #image {
-  width: 300px;
+  width: 500px;
   height: auto;
 }
 
