@@ -8,7 +8,7 @@
   margin-bottom: 20px;
 }
 
-#about-me, #skills, #footer, #info {
+#about-me, #skills, #info {
   background-color: #1b1b32;
   text-align: center;
   border-radius: 10px;
@@ -67,4 +67,5 @@ h2 {
 footer {
   color: #5a01a7;
   font-weight: strong;
+  text-align: center;
 }
