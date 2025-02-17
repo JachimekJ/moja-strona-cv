@@ -16,8 +16,8 @@
   
 #kropki {
   life-style-position: inside;
-  padding-left: 0;
-  margin-left: 0;
+  display: block;
+  
 }
 
 
