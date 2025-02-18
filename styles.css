@@ -7,13 +7,13 @@
   color: #f1be32;
   margin-bottom: 20px;
 }
-
+/* Stylizacja sekcji/stara wersja/kolumna po kolei rozmieszczona.
 #about-me, #skills, #info {
   background-color: #1b1b32;
   text-align: center;
   border-radius: 10px;
 }
-  
+  */
 #kropki {
   life-style-position: inside;
   display: block;
